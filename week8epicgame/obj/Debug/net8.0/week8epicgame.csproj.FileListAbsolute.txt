@@ -1,0 +1,14 @@
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\obj\Debug\net8.0\week8epicgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\obj\Debug\net8.0\week8epicgame.AssemblyInfoInputs.cache
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\obj\Debug\net8.0\week8epicgame.AssemblyInfo.cs
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\obj\Debug\net8.0\week8epicgame.csproj.CoreCompileInputs.cache
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\bin\Debug\net8.0\week8epicgame.exe
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\bin\Debug\net8.0\week8epicgame.deps.json
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\bin\Debug\net8.0\week8epicgame.runtimeconfig.json
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\bin\Debug\net8.0\week8epicgame.dll
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\bin\Debug\net8.0\week8epicgame.pdb
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\obj\Debug\net8.0\week8epicgame.dll
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\obj\Debug\net8.0\refint\week8epicgame.dll
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\obj\Debug\net8.0\week8epicgame.pdb
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\obj\Debug\net8.0\week8epicgame.genruntimeconfig.cache
+C:\Users\tewwu\source\repos\week8epicgame\week8epicgame\obj\Debug\net8.0\ref\week8epicgame.dll
